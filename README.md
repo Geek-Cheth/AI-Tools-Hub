@@ -57,8 +57,6 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [SaneBox](https://www.sanebox.com/) - An email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
 - [MeetGeek](https://meetgeek.ai/) - an AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.
 
-## Text
-
 ### Models
 
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
