@@ -378,6 +378,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Crimson Hexagon](https://www.crimsonhexagon.com/) - AI-based social media sentiment analysis platform.
 - [MarketMuse](https://www.marketmuse.com/) - SEO content optimization platform using AI.
 - [Chatfuel](https://www.chatfuel.com/) - AI-driven chatbot for automating customer engagement on Messenger.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO and Google Ads. Connects Google Search Console, PageSpeed Insights, and Google Ads API to automate meta tag rewrites, schema markup, keyword bids, and content pushes.
+
 
 ## 📞 AI Phone Call Agents
 
@@ -417,6 +419,3 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot.
-
-
-
