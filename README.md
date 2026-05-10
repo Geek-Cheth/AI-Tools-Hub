@@ -15,73 +15,79 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 ## Contents
 
-- [🔥 Hot Picks](#editors-choice)
-- [📝 Text-Based AI](#text)
-  - [Models](#models)
+- [🔥 Hot Picks](#hot-picks)
+- [📝 Text-Based AI](#text-based-ai)
+  - [Language and chat models](#language-and-chat-models)
   - [Chatbots](#chatbots)
-  - [AI-Powered Search Engines](#search-engines)
-  - [Smart Writing Assistants](#writing-assistants)
-  - [Boost Your Productivity](#productivity)
-  - [AI Meeting Allies](#meeting-assistants)
-  - [Academia & Research](#academia)
-  - [Customer Support Solutions](#customer-support)
-  - [More Text Generation Tools](#other-text-generators)
-  - [Developer-Centric AI](#developer-tools)
-- [💻 Code Generation with AI](#code)
-- [🎨 Generative AI for Images](#image)
-  - [Models](#models)
-  - [AI Image Services](#services)
-  - [Graphic Design Tools](#graphic-design)
-  - [Image Resource Libraries](#image-libraries)
-  - [AI Model Repositories](#model-libraries)
+  - [AI-Powered Search Engines](#ai-powered-search-engines)
+  - [Smart Writing Assistants](#smart-writing-assistants)
+  - [Boost Your Productivity](#boost-your-productivity)
+  - [AI Meeting Allies](#ai-meeting-allies)
+  - [Academia and research](#academia-and-research)
+  - [Customer Support Solutions](#customer-support-solutions)
+  - [More Text Generation Tools](#more-text-generation-tools)
+  - [Developer-Centric AI](#developer-centric-ai)
+- [💻 Code Generation with AI](#code-generation-with-ai)
+- [🎨 Generative AI for Images](#generative-ai-for-images)
+  - [Image generation models](#image-generation-models)
+  - [AI Image Services](#ai-image-services)
+  - [Graphic Design Tools](#graphic-design-tools)
+  - [Image Resource Libraries](#image-resource-libraries)
+  - [AI Model Repositories](#ai-model-repositories)
   - [Stable Diffusion Resources](#stable-diffusion-resources)
-  - [Image Synthesis](#image-generation)
-  - [Image Enhancement & Editing](#image-editing)
-  - [Intelligent Image Recognition](#image-recognition)
-  - [Image Enhancement](#image-enhancement)
-  - [Image Compression](#image-compression)
-- [🎬 Generative AI for Video](#video)
-- [🎧 Generative AI for Audio](#audio)
+  - [Image synthesis and creative suites](#image-synthesis-and-creative-suites)
+  - [Image enhancement and editing](#image-enhancement-and-editing)
+  - [Intelligent image recognition](#intelligent-image-recognition)
+  - [Dedicated upscalers](#dedicated-upscalers)
+  - [Image compression](#image-compression)
+- [🎬 Generative AI for Video](#generative-ai-for-video)
+- [🎧 Generative AI for Audio](#generative-ai-for-audio)
   - [AI Voice Cloning](#ai-voice-cloning)
-  - [AI Music Composition](#ai-music-generators)
-  - [Speech Synthesis](#speech)
-- [🚀 AI Tools for Marketing](#marketing-ai-tools)
-- [📞 AI Phone Call Agents](#ai-phone-call)
-- [🧰 Miscellaneous AI Tools](#others)
+  - [AI Music Composition](#ai-music-composition)
+  - [Speech synthesis](#speech-synthesis)
+- [🚀 AI Tools for Marketing](#ai-tools-for-marketing)
+- [📞 AI Phone Call Agents](#ai-phone-call-agents)
+- [🧰 Miscellaneous AI Tools](#miscellaneous-ai-tools)
 
 ## 🔥 Hot Picks
 
-- [Momen](https://momen.app/) - Build and Deploy AI Apps & Agents for Your Business
-- [Notion AI](https://www.notion.so/product/ai) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
-- [Murf AI](https://murf.ai/) - Create voiceover with the most lifelike AI voices.
-- [SaneBox](https://www.sanebox.com/) - An email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
-- [MeetGeek](https://meetgeek.ai/) - an AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.
+- [ChatGPT](https://chatgpt.com) - General-purpose conversational AI by OpenAI; strong default for brainstorming, drafting, coding help, and analysis.
+- [Claude](https://claude.ai/) - Assistant from Anthropic with long context and strong reasoning; great for documents and nuanced writing.
+- [Cursor](https://cursor.com/) - AI-native code editor built on VS Code — agent-style coding, refactoring, and repo-aware assistance.
+- [Perplexity](https://www.perplexity.ai/) - Answer-focused search + chat grounded in sources; handy for quick research with citations.
+- [NotebookLM](https://notebooklm.google.com/) - Google's research notebook: upload PDFs and sources, summarize, synthesize, and explore with grounded Q&A.
 
-### Models
+## 📝 Text-Based AI
 
-- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
-- [OpenRouter](https://openrouter.ai/) - A unified API to access various language models including GPT-4, Claude, PaLM, and more.
-- [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
-- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers.
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages.
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta.
-- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model.
-- [Claude 3](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
-- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
-- [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
-- [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
-- [Mistral AI Models](https://mistral.ai/) - Models by Mistral AI are gaining traction.
-- [Gemma by Google](https://ai.google.dev/gemma) - Open models by Google.
+### Language and chat models
+
+- [OpenAI API](https://platform.openai.com/docs/overview) - API access to OpenAI chat, reasoning, and coding-capable models for building products and workflows.
+- [Anthropic API](https://console.anthropic.com/) - API for Claude models: long-context assistants and agents for enterprise and apps.
+- [Google AI Studio / Gemini API](https://ai.google.dev/) - APIs and tooling for Gemini and related Google multimodal models.
+- [DeepSeek](https://www.deepseek.com/) - Competitive open-weights LLMs plus API/chat for coding and reasoning workloads.
+- [xAI Grok](https://x.ai/) - Frontier models via xAI aimed at truthful, tool-using assistants (consumer and API tiers vary by region).
+- [OpenRouter](https://openrouter.ai/) - Unified API routing across many frontier and open-source language models behind one billing surface.
+- [LLaMA (Meta Llama)](https://ai.meta.com/llama/) - Meta's Llama family of open-source large language models (follow Meta's site for the latest numbered releases).
+- [Mistral AI](https://mistral.ai/) - European model provider offering open weights and hosted APIs across instruction and multimodal tiers.
+- [Gemma](https://ai.google.dev/gemma) - Open models from Google suited for experimentation, fine-tuning, and lightweight deployment.
+
+#### Historical / notable open models
+
+- [Gopher (DeepMind)](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Landmark 280B LM research artifact (historical overview).
+- [OPT](https://huggingface.co/facebook/opt-350m) - Decoder-only pretrained Transformers suite from Meta (research / OSS reference).
+- [BLOOM](https://huggingface.co/docs/transformers/model_doc/bloom) - Multilingual decoder-only OSS model curated by Hugging Face partners.
+- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - Early open chat model from LLaMA fine-tuning (legacy reference).
+- [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) / [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - Instruction-tuned OSS models aligned with earlier Llama weights.
 
 ### Chatbots
 
-- [ChatGPT](https://chatgpt.com) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
-- [Gemini](https://gemini.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
+- [ChatGPT](https://chatgpt.com) - Conversational frontend for OpenAI models with plugins, multimodal uploads, and workspace features.
+- [Microsoft Copilot](https://copilot.microsoft.com/) - Microsoft's AI assistant across Edge, Windows, and the web; grounded search and productivity integration.
+- [Gemini](https://gemini.google.com) - Google's multimodal assistant (formerly Bard); pairs with Workspace and Gemini models.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
-- [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
+- [Phind](https://www.phind.com/) - AI search engine and assistant for programmers; proactively clarifies assumptions and can use web or codebase context via extensions.
 - [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 - [AICamp](https://aicamp.so/) - ChatGPT for Teams
 - [Perplexity AI Chat](https://www.perplexity.ai/) - Perplexity AI now offers a chat interface.
@@ -91,8 +97,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
-- [Metaphor](https://metaphor.systems/) - Language model powered search.
-- [Phind](https://phind.com/) - AI-based search engine.
+- [Exa](https://exa.ai/) - Neural search engine and API (formerly Metaphor): semantic web retrieval for apps and agents.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
 - [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
@@ -144,7 +149,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
-- [TailorTask](https://wwww.tailortask.ai/) - Automate any boring and repetitive task, without having to learn a new tool
+- [TailorTask](https://www.tailortask.ai/) - Automate any boring and repetitive task, without having to learn a new tool
 
 ### AI Meeting Allies
 
@@ -153,12 +158,12 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 
-### Academia & Research
+### Academia and research
 
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more.
+- [NotebookLM](https://notebooklm.google.com/) - Upload papers and corpora for grounded summaries, study guides, and source-linked answers.
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 
@@ -183,6 +188,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
+- [LangGraph](https://www.langchain.com/langgraph) - Graph-based orchestration for multi-step LLM agents and durable workflows (LangChain ecosystem).
+- [CrewAI](https://www.crewai.com/) - Role-based multi-agent crews for automating complex tasks with LLMs.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
@@ -195,21 +202,24 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
 - [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 - [Continue.dev](https://continue.dev/) - Open source autopilot for VS Code and JetBrains.
-- [Codeium](https://www.codeium.com/) - Free AI-powered code completion tool.
-- [Symphony AI](https://www.symphony.ai/) - AI-powered platform for developers.
+- [Codeium / Windsurf](https://windsurf.com/) - Codeium-style completions plus Windsurf editor: agentic coding flows with strong multi-file edits.
+- [Cursor](https://cursor.com/) - AI-native fork of VS Code with inline chat, agents, and deep codebase awareness.
+- [GitHub Copilot](https://github.com/features/copilot) - Inline suggestions, chat, and agents across major IDEs and GitHub.com.
 
 ## 💻 Code Generation with AI
 
-- [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
+- [OpenAI Codex](https://developers.openai.com/codex/) - OpenAI's coding agent stack (CLI, IDE integrations) for natural-language driven software work; model lineup evolves on the platform.
+- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer with chat, PR-aware reviews, and workspace agents.
+- [Cursor](https://cursor.com/) - Agent-first editor for large refactors, tests, and repo-scale changes.
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS's AI coding assistant (evolution of CodeWhisperer): IDE suggestions, chat, and AWS-aware guidance.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
-- [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-- [PR-Agent](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
+- [Qodo Gen](https://www.qodo.ai/) - IDE plugin for AI code and test generation (formerly CodiumAI / Codiumate).
+- [Qodo Merge](https://www.qodo.ai/merge) - Automated pull-request reviews and merge assistance (successor to the open PR-Agent project).
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
@@ -221,13 +231,13 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 ## 🎨 Generative AI for Images
 
-### Models
+### Image generation models
 
-- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
-- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text.
-- [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
-- [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
-- [Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI.
+- [DALL·E 3](https://openai.com/dall-e-3/) - OpenAI's latest consumer text-to-image model (successor to DALL·E 2) with strong prompt adherence and safety defaults.
+- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Open text-to-image diffusion family from Stability (many checkpoints and community fine-tunes).
+- [Flux](https://blackforestlabs.ai/) - High-fidelity open and commercial image models from Black Forest Labs.
+- [Midjourney](https://www.midjourney.com/) - Independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+- [Imagen](https://deepmind.google/technologies/imagen/) - Google's text-to-image diffusion research and product line (quality tied to Gemini / Google AI stack).
 
 ### AI Image Services
 
@@ -261,6 +271,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
+- [Canva](https://www.canva.com/) - Design suite with Magic Media and other AI image, copy, and layout helpers.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach.
 
 ### Image Resource Libraries
@@ -268,9 +279,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
 - [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
 - [KREA](https://www.krea.ai/) - Explore millions of AI-generated images and create collections of prompts. Featuring Stable Diffusion generations.
-- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
+- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E, and Flux-class workflows.
 - [Phygital](https://app.phygital.plus/) - Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
-- [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
+- [Canva AI Images](https://www.canva.com/ai-image-generator/) - Dedicated AI image generator inside Canva workflows.
 
 ### AI Model Repositories
 
@@ -285,37 +296,38 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
-### Image Synthesis
+### Image synthesis and creative suites
 
-- [DALL·E](https://openai.com/dall-e/) - Generates realistic images from text descriptions using deep learning models.
-- [Artbreeder](https://www.artbreeder.com/) - AI tool for creating and blending artworks, portraits, and landscapes through generative adversarial networks.
-- [Runway ML](https://runwayml.com/) - A creative toolkit that enables artists to generate images, videos, and models using AI.
+- [DALL·E](https://openai.com/dall-e/) - OpenAI hub for image products and documentation spanning DALL·E generations.
 
-### Image Enhancement & Editing
+### Image enhancement and editing
 
 - [DeepArt](https://deepart.io/) - AI-driven tool that transforms photos into artworks by mimicking the style of famous artists.
 - [Let's Enhance](https://letsenhance.io/) - AI-based tool to upscale images without losing quality, using neural networks for image enhancement.
 - [Remove.bg](https://www.remove.bg/) - AI tool for automatic background removal from images.
 
-### Intelligent Image Recognition
+### Intelligent image recognition
 
 - [Clarifai](https://www.clarifai.com/) - AI-powered platform for image and video recognition, offering custom models for visual recognition tasks.
 - [Google Cloud Vision API](https://cloud.google.com/vision) - Machine learning-based image analysis tool that recognizes objects, text, and landmarks in images.
 - [AWS Rekognition](https://aws.amazon.com/rekognition/) - Deep learning service that detects objects, text, and activities in images and videos.
 
-### Image Enhancement
+### Dedicated upscalers
 
 - [Topaz Labs Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - AI-powered image upscaling tool that increases image resolution without losing details.
 - [VanceAI](https://vanceai.com/) - AI-based tool for enhancing image quality, improving details, and reducing noise in images.
 
-### Image Compression
+### Image compression
 
 - [TinyPNG](https://tinypng.com/) - AI-based image compression tool that reduces image file sizes while maintaining high quality.
 - [Squoosh](https://squoosh.app/) - Open-source image compression tool powered by AI that reduces image size without losing visible quality.
 
 ## 🎬 Generative AI for Video
 
-- [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
+- [Runway](https://runwayml.com/) - Gen-era creative suite: multimodal editing, realistic video synthesis, collaborative timelines, and tooling for prosumer teams.
+- [OpenAI Sora](https://openai.com/index/sora/) - OpenAI video generation models and product experiments for cinematic clips from prompts and references.
+- [Google Veo](https://deepmind.google/technologies/veo/) - Google's flagship video-generation models surfaced through Gemini workspace and Labs programs.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Fast cinematic video generation plus web and API access from Luma Labs.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
@@ -342,6 +354,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 ### AI Music Composition
 
+- [Suno](https://suno.com/) - Create full-length songs from text prompts with vocals and instrumentation inside a streamlined studio.
+- [Udio](https://www.udio.com/) - Generative music platform for producers and hobbyists emphasizing high-quality stems and iterative editing.
 - [Splash Pro](https://www.splashpro.com) - A versatile platform offering intuitive music creation tools for all skill levels.
 - [AIVA](https://www.aiva.ai) - AI composer specializing in classical and cinematic music creation.
 - [Mubert](https://www.mubert.com) - Real-time generative music tailored for different use cases.
@@ -354,11 +368,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Harmonai](https://www.harmonai.org/) - A community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 
-### Speech Synthesis
+### Speech synthesis
 
-- [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
-- [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
-- [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
 - [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
 - [Coqui](https://coqui.ai/) - Generative AI for Voice.
 - [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
@@ -375,7 +386,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Smartly](https://www.smartly.io/) - Automates social media ad creation and optimization.
 - [Adzooma](https://www.adzooma.com/) - AI-powered PPC campaign management platform.
 - [Phrasee](https://www.phrasee.co/) - AI tool that generates optimized marketing copy.
-- [Crimson Hexagon](https://www.crimsonhexagon.com/) - AI-based social media sentiment analysis platform.
+- [Brandwatch](https://www.brandwatch.com/) - Social listening and consumer insights platform blending AI workflows for marketing and research teams.
 - [MarketMuse](https://www.marketmuse.com/) - SEO content optimization platform using AI.
 - [NotFair](https://notfair.co) - Google Ads MCP server for AI agents. Connect Claude/Cursor to your Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Free tier available.
 - [Chatfuel](https://www.chatfuel.com/) - AI-driven chatbot for automating customer engagement on Messenger.
@@ -417,7 +428,3 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions.
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
-- [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot.
-
-
-
