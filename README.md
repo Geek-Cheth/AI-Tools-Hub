@@ -377,6 +377,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Phrasee](https://www.phrasee.co/) - AI tool that generates optimized marketing copy.
 - [Crimson Hexagon](https://www.crimsonhexagon.com/) - AI-based social media sentiment analysis platform.
 - [MarketMuse](https://www.marketmuse.com/) - SEO content optimization platform using AI.
+- [NotFair](https://notfair.co) - Google Ads MCP server for AI agents. Connect Claude/Cursor to your Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Free tier available.
 - [Chatfuel](https://www.chatfuel.com/) - AI-driven chatbot for automating customer engagement on Messenger.
 
 ## 📞 AI Phone Call Agents
