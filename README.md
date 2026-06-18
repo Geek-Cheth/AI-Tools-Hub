@@ -225,6 +225,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
