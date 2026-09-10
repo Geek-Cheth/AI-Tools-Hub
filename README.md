@@ -70,6 +70,15 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [LLaMA (Meta Llama)](https://ai.meta.com/llama/) - Meta's Llama family of open-source large language models (follow Meta's site for the latest numbered releases).
 - [Mistral AI](https://mistral.ai/) - European model provider offering open weights and hosted APIs across instruction and multimodal tiers.
 - [Gemma](https://ai.google.dev/gemma) - Open models from Google suited for experimentation, fine-tuning, and lightweight deployment.
+- [Qwen](https://chat.qwen.ai/) - Alibaba's open-weight and hosted LLM family (chat + Model Studio API) spanning coding, multimodal, and long-context models.
+- [Kimi (Moonshot AI)](https://www.kimi.com/) - Moonshot's long-context assistant and open-weight MoE models with consumer chat and developer API.
+- [MiniMax](https://www.minimax.io/) - Multimodal model lab (language, video, speech/music) with chat, agent products, and open platform APIs.
+- [Phi (Microsoft)](https://azure.microsoft.com/en-us/products/phi) - Microsoft's compact open and Azure-hosted SLM family for on-device and efficient cloud inference.
+- [Ollama](https://ollama.com/) - Local runner for open LLMs with a simple CLI/API; de-facto default for laptop/self-hosted model serving.
+- [Groq](https://groq.com/) - Ultra-low-latency inference cloud popular for open models via an OpenAI-compatible API.
+- [Together AI](https://www.together.ai/) - Inference and fine-tuning platform hosting many frontier open-weight models behind one API.
+- [Fireworks AI](https://fireworks.ai/) - Production inference platform for open and partner-hosted models with OpenAI/Anthropic-compatible APIs.
+- [LM Studio](https://lmstudio.ai/) - Desktop app to download and run local open models with a ChatGPT-like UI and local server.
 
 #### Historical / notable open models
 
