@@ -214,9 +214,18 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS's AI coding assistant (evolution of CodeWhisperer): IDE suggestions, chat, and AWS-aware guidance.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
+- [Aider](https://aider.chat/) - Open-source git-native pair programmer in the terminal; maps the repo and auto-commits reviewable changes.
+- [Amp](https://ampcode.com/) - Sourcegraph's agentic coding product oriented to large monorepos and code-graph reasoning.
+- [Claude Code](https://claude.com/product/claude-code) - Anthropic's terminal-native coding agent for repo-scale edits, tests, and long-running engineering tasks.
+- [Cline](https://cline.bot/) - Open-source VS Code coding agent with BYOK providers, approval gates, and autonomous multi-file edits.
+- [Devin](https://cognition.com/) - Cognition's autonomous software engineer that plans, codes, and opens PRs in a cloud workspace from tickets/chat.
+- [Gemini CLI](https://geminicli.com/) - Google's open-source terminal agent for Gemini models (coding, tools, and agentic workflows).
+- [Goose](https://block.github.io/goose/) - Block's open-source, local-first coding agent that reuses existing model subscriptions via ACP.
+- [OpenHands](https://www.openhands.dev/) - Open-source coding agent (ex-OpenDevin) with browser + terminal + editor; self-host or cloud.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
+- [Bolt.new](https://bolt.new/) - StackBlitz prompt-to-full-stack web app builder that runs in-browser via WebContainers.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [Qodo Gen](https://www.qodo.ai/) - IDE plugin for AI code and test generation (formerly CodiumAI / Codiumate).
 - [Qodo Merge](https://www.qodo.ai/merge) - Automated pull-request reviews and merge assistance (successor to the open PR-Agent project).
@@ -224,7 +233,10 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [Manus](https://manus.im/) - General autonomous agent product for multi-step research and execution tasks.
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
+- [Lovable](https://lovable.dev/) - Prompt-to-app builder focused on polished full-stack prototypes and iterative product UIs.
+- [v0](https://v0.dev/) - Vercel's generative UI builder for React/Tailwind components and app scaffolds from prompts.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
