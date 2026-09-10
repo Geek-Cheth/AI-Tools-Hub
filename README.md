@@ -256,7 +256,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Manus](https://manus.im/) - General autonomous agent product for multi-step research and execution tasks.
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
-- [Roblox GUI Maker](https://robloxguimaker.dev/) - Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - AI prompt-to-GUI mockup planner for Roblox Studio ScreenGui layouts (shops, HUDs, inventories) with desktop/mobile preview.
 - [Lovable](https://lovable.dev/) - Prompt-to-app builder focused on polished full-stack prototypes and iterative product UIs.
 - [v0](https://v0.dev/) - Vercel's generative UI builder for React/Tailwind components and app scaffolds from prompts.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
