@@ -70,6 +70,15 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [LLaMA (Meta Llama)](https://ai.meta.com/llama/) - Meta's Llama family of open-source large language models (follow Meta's site for the latest numbered releases).
 - [Mistral AI](https://mistral.ai/) - European model provider offering open weights and hosted APIs across instruction and multimodal tiers.
 - [Gemma](https://ai.google.dev/gemma) - Open models from Google suited for experimentation, fine-tuning, and lightweight deployment.
+- [Qwen](https://chat.qwen.ai/) - Alibaba's open-weight and hosted LLM family (chat + Model Studio API) spanning coding, multimodal, and long-context models.
+- [Kimi (Moonshot AI)](https://www.kimi.com/) - Moonshot's long-context assistant and open-weight MoE models with consumer chat and developer API.
+- [MiniMax](https://www.minimax.io/) - Multimodal model lab (language, video, speech/music) with chat, agent products, and open platform APIs.
+- [Phi (Microsoft)](https://azure.microsoft.com/en-us/products/phi) - Microsoft's compact open and Azure-hosted SLM family for on-device and efficient cloud inference.
+- [Ollama](https://ollama.com/) - Local runner for open LLMs with a simple CLI/API; de-facto default for laptop/self-hosted model serving.
+- [Groq](https://groq.com/) - Ultra-low-latency inference cloud popular for open models via an OpenAI-compatible API.
+- [Together AI](https://www.together.ai/) - Inference and fine-tuning platform hosting many frontier open-weight models behind one API.
+- [Fireworks AI](https://fireworks.ai/) - Production inference platform for open and partner-hosted models with OpenAI/Anthropic-compatible APIs.
+- [LM Studio](https://lmstudio.ai/) - Desktop app to download and run local open models with a ChatGPT-like UI and local server.
 
 #### Historical / notable open models
 
@@ -134,6 +143,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ### Boost Your Productivity
 
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused personal context retrieval.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai/) - Automate your workflows with AI. Describe your workflows step by step in plain language.
@@ -150,6 +160,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 - [TailorTask](https://www.tailortask.ai/) - Automate any boring and repetitive task, without having to learn a new tool
+- [n8n](https://n8n.io/) - Open-source workflow automation with strong AI/agent nodes for connecting LLMs to apps and APIs.
+- [Zapier Agents](https://zapier.com/agents) - No-code AI agents that act across Zapier's app ecosystem for business workflows.
+- [fal](https://fal.ai/) - Generative media inference API (image/video/audio models) optimized for fast serverless generation.
 
 ### AI Meeting Allies
 
@@ -157,6 +170,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
+- [Fireflies.ai](https://fireflies.ai/) - Meeting recorder/notetaker with transcripts, summaries, and searchable knowledge across calls.
+- [Fathom](https://www.fathom.ai/) - AI meeting note-taker for recording with crisp summaries and CRM handoff.
 
 ### Academia and research
 
@@ -205,6 +220,12 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Codeium / Windsurf](https://windsurf.com/) - Codeium-style completions plus Windsurf editor: agentic coding flows with strong multi-file edits.
 - [Cursor](https://cursor.com/) - AI-native fork of VS Code with inline chat, agents, and deep codebase awareness.
 - [GitHub Copilot](https://github.com/features/copilot) - Inline suggestions, chat, and agents across major IDEs and GitHub.com.
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's supported multi-agent successor to AutoGen for enterprise orchestration, MCP/A2A, and durable agent apps.
+- [PydanticAI](https://ai.pydantic.dev/) - Type-safe Python agent framework from the Pydantic team for structured tools, deps, and eval-friendly agent graphs.
+- [smolagents](https://github.com/huggingface/smolagents) - Hugging Face's minimal code-first agent library emphasizing small, readable agent loops and tool use.
+- [Browser Use](https://github.com/browser-use/browser-use) - Open-source library for LLM-driven browser automation (click, type, navigate) used widely in computer-use agent stacks.
+- [Browserbase](https://www.browserbase.com/) - Hosted headless browser infrastructure for web agents with stealth, sessions, and developer APIs.
+- [Tavily](https://www.tavily.com/) - Search API built for LLM/agent retrieval (clean snippets, citations) rather than consumer search UIs.
 
 ## 💻 Code Generation with AI
 
@@ -214,9 +235,18 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS's AI coding assistant (evolution of CodeWhisperer): IDE suggestions, chat, and AWS-aware guidance.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
+- [Aider](https://aider.chat/) - Open-source git-native pair programmer in the terminal; maps the repo and auto-commits reviewable changes.
+- [Amp](https://ampcode.com/) - Sourcegraph's agentic coding product oriented to large monorepos and code-graph reasoning.
+- [Claude Code](https://claude.com/product/claude-code) - Anthropic's terminal-native coding agent for repo-scale edits, tests, and long-running engineering tasks.
+- [Cline](https://cline.bot/) - Open-source VS Code coding agent with BYOK providers, approval gates, and autonomous multi-file edits.
+- [Devin](https://cognition.com/) - Cognition's autonomous software engineer that plans, codes, and opens PRs in a cloud workspace from tickets/chat.
+- [Gemini CLI](https://geminicli.com/) - Google's open-source terminal agent for Gemini models (coding, tools, and agentic workflows).
+- [Goose](https://block.github.io/goose/) - Block's open-source, local-first coding agent that reuses existing model subscriptions via ACP.
+- [OpenHands](https://www.openhands.dev/) - Open-source coding agent (ex-OpenDevin) with browser + terminal + editor; self-host or cloud.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
+- [Bolt.new](https://bolt.new/) - StackBlitz prompt-to-full-stack web app builder that runs in-browser via WebContainers.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [Qodo Gen](https://www.qodo.ai/) - IDE plugin for AI code and test generation (formerly CodiumAI / Codiumate).
 - [Qodo Merge](https://www.qodo.ai/merge) - Automated pull-request reviews and merge assistance (successor to the open PR-Agent project).
@@ -224,8 +254,11 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [Manus](https://manus.im/) - General autonomous agent product for multi-step research and execution tasks.
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
 - [Roblox GUI Maker](https://robloxguimaker.dev/) - Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
+- [Lovable](https://lovable.dev/) - Prompt-to-app builder focused on polished full-stack prototypes and iterative product UIs.
+- [v0](https://v0.dev/) - Vercel's generative UI builder for React/Tailwind components and app scaffolds from prompts.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
@@ -239,6 +272,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Flux](https://blackforestlabs.ai/) - High-fidelity open and commercial image models from Black Forest Labs.
 - [Midjourney](https://www.midjourney.com/) - Independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://deepmind.google/technologies/imagen/) - Google's text-to-image diffusion research and product line (quality tied to Gemini / Google AI stack).
+- [Ideogram](https://ideogram.ai/) - Text-to-image model/service known for reliable typography and design-ready graphics.
+- [Recraft](https://www.recraft.ai/) - Design-oriented image generator with strong brand/style controls and vector-friendly outputs.
+- [Adobe Firefly](https://firefly.adobe.com/) - Adobe's commercially licensed generative image models integrated across Creative Cloud.
 
 ### AI Image Services
 
@@ -266,6 +302,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+- [Leonardo AI](https://leonardo.ai/) - Creator platform for image generation, fine-tunes, and production asset workflows.
 
 ### Graphic Design Tools
 
@@ -337,6 +374,11 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating.
+- [Kling AI](https://kling.ai/) - Kuaishou's high-quality text/image-to-video studio with long clips and strong motion realism.
+- [Pika](https://pika.art/) - Creator-focused AI video platform for short cinematic clips, effects, swaps, and lip-sync.
+- [Hailuo (MiniMax)](https://hailuoai.video/) - MiniMax's video generation product for text/image-to-video with competitive motion quality.
+- [HeyGen](https://www.heygen.com/) - AI avatar / talking-head video platform for localization, training, and marketing explainers.
+- [Opus Clip](https://www.opus.pro/) - AI short-form clipper that turns long videos/podcasts into captioned social clips.
 
 ## 🎧 Generative AI for Audio
 
@@ -345,6 +387,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Descript Overdub](https://www.descript.com/overdub) - Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.
 - [Respeecher](https://www.respeecher.com/) - A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
 - [ElevenLabs](https://elevenlabs.io/) - Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.
+- [Cartesia](https://cartesia.ai/) - Real-time generative voice / sonic models aimed at low-latency voice agents and apps.
 - [Resemble AI](https://www.resemble.ai/) - Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.
 - [Murf AI](https://murf.ai/) - User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.
 - [iSpeech](https://www.ispeech.org/) - A versatile solution for corporate applications with support for a wide array of languages and voices.
@@ -396,6 +439,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 - [AICaller](https://aicaller.io/) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [Cald](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
+- [Vapi](https://vapi.ai/) - Developer platform to build, test, and deploy voice AI phone agents with BYO models and telephony.
+- [Bland.ai](https://www.bland.ai/) - Programmable AI phone-call agents for inbound/outbound voice automation at scale.
+- [Retell AI](https://www.retellai.com/) - Low-latency voice agent platform for phone/web voice bots with telephony integrations.
 
 ## 🧰 Miscellaneous AI Tools
 
@@ -405,6 +451,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
+- [Auferet](https://auferet.com/) - AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore.
+- [InnerCanvas](https://innercanvas.app) - Private AI drawing reflection for adults: guided drawing tests and non-diagnostic reports from browser drawings or uploads.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
