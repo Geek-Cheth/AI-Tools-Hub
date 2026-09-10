@@ -205,6 +205,12 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Codeium / Windsurf](https://windsurf.com/) - Codeium-style completions plus Windsurf editor: agentic coding flows with strong multi-file edits.
 - [Cursor](https://cursor.com/) - AI-native fork of VS Code with inline chat, agents, and deep codebase awareness.
 - [GitHub Copilot](https://github.com/features/copilot) - Inline suggestions, chat, and agents across major IDEs and GitHub.com.
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's supported multi-agent successor to AutoGen for enterprise orchestration, MCP/A2A, and durable agent apps.
+- [PydanticAI](https://ai.pydantic.dev/) - Type-safe Python agent framework from the Pydantic team for structured tools, deps, and eval-friendly agent graphs.
+- [smolagents](https://github.com/huggingface/smolagents) - Hugging Face's minimal code-first agent library emphasizing small, readable agent loops and tool use.
+- [Browser Use](https://github.com/browser-use/browser-use) - Open-source library for LLM-driven browser automation (click, type, navigate) used widely in computer-use agent stacks.
+- [Browserbase](https://www.browserbase.com/) - Hosted headless browser infrastructure for web agents with stealth, sessions, and developer APIs.
+- [Tavily](https://www.tavily.com/) - Search API built for LLM/agent retrieval (clean snippets, citations) rather than consumer search UIs.
 
 ## 💻 Code Generation with AI
 
