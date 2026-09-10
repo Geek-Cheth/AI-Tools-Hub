@@ -143,6 +143,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ### Boost Your Productivity
 
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused personal context retrieval.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai/) - Automate your workflows with AI. Describe your workflows step by step in plain language.
@@ -159,6 +160,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 - [TailorTask](https://www.tailortask.ai/) - Automate any boring and repetitive task, without having to learn a new tool
+- [n8n](https://n8n.io/) - Open-source workflow automation with strong AI/agent nodes for connecting LLMs to apps and APIs.
+- [Zapier Agents](https://zapier.com/agents) - No-code AI agents that act across Zapier's app ecosystem for business workflows.
+- [fal](https://fal.ai/) - Generative media inference API (image/video/audio models) optimized for fast serverless generation.
 
 ### AI Meeting Allies
 
@@ -166,6 +170,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
+- [Fireflies.ai](https://fireflies.ai/) - Meeting recorder/notetaker with transcripts, summaries, and searchable knowledge across calls.
+- [Fathom](https://www.fathom.ai/) - AI meeting note-taker for recording with crisp summaries and CRM handoff.
 
 ### Academia and research
 
@@ -247,6 +253,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Flux](https://blackforestlabs.ai/) - High-fidelity open and commercial image models from Black Forest Labs.
 - [Midjourney](https://www.midjourney.com/) - Independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://deepmind.google/technologies/imagen/) - Google's text-to-image diffusion research and product line (quality tied to Gemini / Google AI stack).
+- [Ideogram](https://ideogram.ai/) - Text-to-image model/service known for reliable typography and design-ready graphics.
+- [Recraft](https://www.recraft.ai/) - Design-oriented image generator with strong brand/style controls and vector-friendly outputs.
+- [Adobe Firefly](https://firefly.adobe.com/) - Adobe's commercially licensed generative image models integrated across Creative Cloud.
 
 ### AI Image Services
 
@@ -274,6 +283,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+- [Leonardo AI](https://leonardo.ai/) - Creator platform for image generation, fine-tunes, and production asset workflows.
 
 ### Graphic Design Tools
 
@@ -345,6 +355,11 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating.
+- [Kling AI](https://kling.ai/) - Kuaishou's high-quality text/image-to-video studio with long clips and strong motion realism.
+- [Pika](https://pika.art/) - Creator-focused AI video platform for short cinematic clips, effects, swaps, and lip-sync.
+- [Hailuo (MiniMax)](https://hailuoai.video/) - MiniMax's video generation product for text/image-to-video with competitive motion quality.
+- [HeyGen](https://www.heygen.com/) - AI avatar / talking-head video platform for localization, training, and marketing explainers.
+- [Opus Clip](https://www.opus.pro/) - AI short-form clipper that turns long videos/podcasts into captioned social clips.
 
 ## 🎧 Generative AI for Audio
 
@@ -353,6 +368,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Descript Overdub](https://www.descript.com/overdub) - Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.
 - [Respeecher](https://www.respeecher.com/) - A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
 - [ElevenLabs](https://elevenlabs.io/) - Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.
+- [Cartesia](https://cartesia.ai/) - Real-time generative voice / sonic models aimed at low-latency voice agents and apps.
 - [Resemble AI](https://www.resemble.ai/) - Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.
 - [Murf AI](https://murf.ai/) - User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.
 - [iSpeech](https://www.ispeech.org/) - A versatile solution for corporate applications with support for a wide array of languages and voices.
@@ -404,6 +420,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 - [AICaller](https://aicaller.io/) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [Cald](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
+- [Vapi](https://vapi.ai/) - Developer platform to build, test, and deploy voice AI phone agents with BYO models and telephony.
+- [Bland.ai](https://www.bland.ai/) - Programmable AI phone-call agents for inbound/outbound voice automation at scale.
+- [Retell AI](https://www.retellai.com/) - Low-latency voice agent platform for phone/web voice bots with telephony integrations.
 
 ## 🧰 Miscellaneous AI Tools
 
@@ -413,6 +432,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
+- [InnerCanvas](https://innercanvas.app) - Private AI drawing reflection for adults: guided drawing tests and non-diagnostic reports from browser drawings or uploads.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
