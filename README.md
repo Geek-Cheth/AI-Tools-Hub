@@ -99,12 +99,10 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Phind](https://www.phind.com/) - AI search engine and assistant for programmers; proactively clarifies assumptions and can use web or codebase context via extensions.
 - [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 - [AICamp](https://aicamp.so/) - ChatGPT for Teams
-- [Perplexity AI Chat](https://www.perplexity.ai/) - Perplexity AI now offers a chat interface.
 - [Pi by Inflection AI](https://pi.ai/talk) - A personal AI.
 
 ### AI-Powered Search Engines
 
-- [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Exa](https://exa.ai/) - Neural search engine and API (formerly Metaphor): semantic web retrieval for apps and agents.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
@@ -123,20 +121,16 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
-- [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
 - [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
-- [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
-- [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
-- [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [GrammarlyGO](https://www.grammarly.com/grammarlygo) - Grammarly's new generative AI assistant.
 
@@ -148,18 +142,14 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai/) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
-- [Lemmy](https://lemmy.co/) - Autonomous AI Assistant for Work.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - Forget about frustrating formulas in Google Sheets.
 - [CreateEasily](https://createeasily.com/) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - [aiPDF](https://aipdf.ai/) - The most advanced AI document assistant
-- [Summary With AI](https://www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
-- [Emilio](https://getemil.io/) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 - [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
 - [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
 - [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
-- [TailorTask](https://www.tailortask.ai/) - Automate any boring and repetitive task, without having to learn a new tool
 - [n8n](https://n8n.io/) - Open-source workflow automation with strong AI/agent nodes for connecting LLMs to apps and APIs.
 - [Zapier Agents](https://zapier.com/agents) - No-code AI agents that act across Zapier's app ecosystem for business workflows.
 - [fal](https://fal.ai/) - Generative media inference API (image/video/audio models) optimized for fast serverless generation.
@@ -167,9 +157,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ### AI Meeting Allies
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
-- [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
-- [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Fireflies.ai](https://fireflies.ai/) - Meeting recorder/notetaker with transcripts, summaries, and searchable knowledge across calls.
 - [Fathom](https://www.fathom.ai/) - AI meeting note-taker for recording with crisp summaries and CRM handoff.
 
@@ -187,7 +175,6 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 - [GPTHelp.ai](https://gpthelp.ai/) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai/) - Automate your customer support with AI.
-- [Dear AI](https://www.dearai.online/) - Supercharge Customer Services and boost sales with AI Chatbot.
 - [Inline Help](https://inlinehelp.com/) - Answer customer questions before they ask.
 - [Aidbase](https://www.aidbase.ai/) - AI-Powered Support for your SaaS startup.
 
@@ -245,12 +232,10 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [OpenHands](https://www.openhands.dev/) - Open-source coding agent (ex-OpenDevin) with browser + terminal + editor; self-host or cloud.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
-- [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 - [Bolt.new](https://bolt.new/) - StackBlitz prompt-to-full-stack web app builder that runs in-browser via WebContainers.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [Qodo Gen](https://www.qodo.ai/) - IDE plugin for AI code and test generation (formerly CodiumAI / Codiumate).
-- [Qodo Merge](https://www.qodo.ai/merge) - Automated pull-request reviews and merge assistance (successor to the open PR-Agent project).
-- [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
+- [Qodo Merge](https://www.qodo.ai/features/qodo-git/) - Automated pull-request reviews and merge assistance (successor to the open PR-Agent project).
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
@@ -279,26 +264,19 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ### AI Image Services
 
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
-- [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
 - [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
-- [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI.
-- [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground AI](https://playgroundai.com/) - Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
-- [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
-- [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
-- [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
-- [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
+- [Lensa](https://lensa.app/) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
-- [StockPhotoAI.net](https://www.stockphotoai.net/) - Great stock photos, made for you.
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
@@ -324,14 +302,11 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ### AI Model Repositories
 
 - [Civitai](https://civitai.com/) - Community-driven AI model sharing tool.
-- [Stable Diffusion Models](https://rentry.org/sdmodels) - A comprehensive list of Stable Diffusion checkpoints on rentry.org.
 
 ### Stable Diffusion Resources
 
 - [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
-- [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion.
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
-- [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
 ### Image synthesis and creative suites
@@ -367,7 +342,6 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Google Veo](https://deepmind.google/technologies/veo/) - Google's flagship video-generation models surfaced through Gemini workspace and Labs programs.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Fast cinematic video generation plus web and API access from Luma Labs.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
-- [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
@@ -391,7 +365,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Resemble AI](https://www.resemble.ai/) - Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.
 - [Murf AI](https://murf.ai/) - User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.
 - [iSpeech](https://www.ispeech.org/) - A versatile solution for corporate applications with support for a wide array of languages and voices.
-- [Veritone Voice](https://www.veritone.com/solutions/voice/) - Focuses on maintaining brand consistency with highly customizable voice cloning used in media and entertainment.
+- [Veritone Voice](https://www.veritonevoice.com/) - Focuses on maintaining brand consistency with highly customizable voice cloning used in media and entertainment.
 - [Microsoft Azure Neural TTS](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - Scalable and highly customizable, ideal for integration into enterprise applications.
 - [WellSaid Labs](https://www.wellsaidlabs.com/) - Gaining traction for its natural-sounding voiceovers, particularly in corporate training and e-learning.
 - [Lovo.ai](https://www.lovo.ai/) - A compelling choice for creative professionals, especially useful in ads and explainer videos.
@@ -400,7 +374,6 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 - [Suno](https://suno.com/) - Create full-length songs from text prompts with vocals and instrumentation inside a streamlined studio.
 - [Udio](https://www.udio.com/) - Generative music platform for producers and hobbyists emphasizing high-quality stems and iterative editing.
-- [Splash Pro](https://www.splashpro.com) - A versatile platform offering intuitive music creation tools for all skill levels.
 - [AIVA](https://www.aiva.ai) - AI composer specializing in classical and cinematic music creation.
 - [Mubert](https://www.mubert.com) - Real-time generative music tailored for different use cases.
 - [Soundraw](https://soundraw.io) - Allows users to customize music compositions based on mood and style.
@@ -415,9 +388,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ### Speech synthesis
 
 - [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
-- [Coqui](https://coqui.ai/) - Generative AI for Voice.
-- [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
-- [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
+- [VALL-E X](https://github.com/Plachtaa/VALL-E-X) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality.
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model.
 
@@ -446,15 +417,12 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ## 🧰 Miscellaneous AI Tools
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
-- [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
 - [Auferet](https://auferet.com/) - AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore.
 - [InnerCanvas](https://innercanvas.app) - Private AI drawing reflection for adults: guided drawing tests and non-diagnostic reports from browser drawings or uploads.
-- [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
-- [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
@@ -462,10 +430,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 - [Aispect](https://aispect.io/) - New way to experience events.
 - [PressPulse AI](https://www.presspulse.ai/) - Get personalized media coverage leads every morning.
-- [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 - [Taplio](https://taplio.com/) - The all-in-one, AI-powered LinkedIn tool.
-- [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favorite AI. All in one place.
-- [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator.
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
 - [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
@@ -474,6 +439,6 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot.
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications.
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications.
-- [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions.
+- [GetWhys](https://www.getwhys.io/) - AI driven answers to SaaS research questions.
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
