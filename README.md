@@ -64,7 +64,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [OpenAI API](https://platform.openai.com/docs/overview) - API access to OpenAI chat, reasoning, and coding-capable models for building products and workflows.
 - [Anthropic API](https://console.anthropic.com/) - API for Claude models: long-context assistants and agents for enterprise and apps.
 - [Google AI Studio / Gemini API](https://ai.google.dev/) - APIs and tooling for Gemini and related Google multimodal models.
-- [DeepSeek](https://www.deepseek.com/) - Competitive open-weights LLMs plus API/chat for coding and reasoning workloads.
+- [DeepSeek](https://www.deepseek.com/) - Competitive open-weights LLMs plus API/chat for coding and reasoning; V3.2-Exp adds sparse attention for cheaper long-context inference.
 - [xAI Grok](https://x.ai/) - Frontier models via xAI aimed at truthful, tool-using assistants (consumer and API tiers vary by region).
 - [OpenRouter](https://openrouter.ai/) - Unified API routing across many frontier and open-source language models behind one billing surface.
 - [LLaMA (Meta Llama)](https://ai.meta.com/llama/) - Meta's Llama family of open-source large language models (follow Meta's site for the latest numbered releases).
@@ -110,6 +110,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Andi](https://andisearch.com/) - A new AI-powered search engine.
+- [Iris (AllSpark)](https://github.com/AllSpark-Research/Iris) - Open-weight search agents (Iris-mini / Iris-pro on Qwen3) plus harness for multi-hop web research; strong open BrowseComp-class results.
 
 ### Smart Writing Assistants
 
@@ -214,6 +215,8 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Browserbase](https://www.browserbase.com/) - Hosted headless browser infrastructure for web agents with stealth, sessions, and developer APIs.
 - [Tavily](https://www.tavily.com/) - Search API built for LLM/agent retrieval (clean snippets, citations) rather than consumer search UIs.
 - [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents (Claude Code, Codex, Gemini CLI) with Kanban-driven tasks, parallel git worktrees, and typed merge flows.
+- [LandingAI ADE](https://landing.ai/ade) - Agentic document extraction API (DPT-3 Pro/Verity): parse, split, and schema extract with layout-aware Markdown and atomic grounding for RAG and agents.
+- [OpenAI Agents API](https://openai.com/index/introducing-the-agents-api/) - Managed Codex-style agent harness in public beta (sessions, tools, hosted sandboxes); billed on model/tool usage, no separate harness fee.
 
 ## 💻 Code Generation with AI
 
@@ -392,6 +395,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [VALL-E X](https://github.com/Plachtaa/VALL-E-X) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality.
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model.
+- [GPT-Live-1](https://developers.openai.com/api/docs/models/gpt-live-1) - OpenAI full-duplex voice model in the API for real-time listen-and-speak agents; delegates reasoning/tools to a backend model.
 
 ## 🚀 AI Tools for Marketing
 
@@ -443,3 +447,4 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [GetWhys](https://www.getwhys.io/) - AI driven answers to SaaS research questions.
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
+- [Muse (Meta)](https://muse.ai/) - Personal AI agent (iOS/Android/WhatsApp/web) that acts across connected apps via Muse Secure VM.
