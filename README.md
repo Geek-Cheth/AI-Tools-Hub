@@ -170,6 +170,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [NotebookLM](https://notebooklm.google.com/) - Upload papers and corpora for grounded summaries, study guides, and source-linked answers.
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
+- [StudyArena](https://studyarena.com) - Compare three anonymous AI answers to a study question, vote, then reveal the models; free with an account.
 
 ### Customer Support Solutions
 
