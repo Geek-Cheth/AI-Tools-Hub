@@ -188,6 +188,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 ### Developer-Centric AI
 
+- [Agent QA](https://github.com/vostride/agent-qa) - The self-improving QA agent for natural-language web and mobile regression tests, with memory from past runs.
 - [Cohere](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
