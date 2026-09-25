@@ -150,6 +150,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
 - [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
+- [AI Tools Radar](https://aitoolsradar.com/) - AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news.
 - [Talently AI](https://interview.talently.ai/) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 - [n8n](https://n8n.io/) - Open-source workflow automation with strong AI/agent nodes for connecting LLMs to apps and APIs.
 - [Zapier Agents](https://zapier.com/agents) - No-code AI agents that act across Zapier's app ecosystem for business workflows.
