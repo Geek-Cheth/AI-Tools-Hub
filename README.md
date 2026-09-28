@@ -134,6 +134,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [GrammarlyGO](https://www.grammarly.com/grammarlygo) - Grammarly's new generative AI assistant.
+- [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing, ready to upload.
 
 ### Boost Your Productivity
 
