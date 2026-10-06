@@ -135,6 +135,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [GrammarlyGO](https://www.grammarly.com/grammarlygo) - Grammarly's new generative AI assistant.
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing, ready to upload.
+- [ImagineYourBook](https://www.imagineyourbook.com/) - AI book workspace that plans and drafts full manuscripts, rewrites drafts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
 
 ### Boost Your Productivity
 
