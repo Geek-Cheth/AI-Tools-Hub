@@ -363,6 +363,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Hailuo (MiniMax)](https://hailuoai.video/) - MiniMax's video generation product for text/image-to-video with competitive motion quality.
 - [HeyGen](https://www.heygen.com/) - AI avatar / talking-head video platform for localization, training, and marketing explainers.
 - [Opus Clip](https://www.opus.pro/) - AI short-form clipper that turns long videos/podcasts into captioned social clips.
+- [ScaleReach](https://www.scalereach.ai) - Turns long YouTube and other videos into vertical 9:16 clips with AI captions and face-tracking crop, with virality scoring and scheduling to Instagram, TikTok, and YouTube.
 
 ## 🎧 Generative AI for Audio
 
