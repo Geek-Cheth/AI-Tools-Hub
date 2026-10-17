@@ -136,6 +136,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [GrammarlyGO](https://www.grammarly.com/grammarlygo) - Grammarly's new generative AI assistant.
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing, ready to upload.
 - [ImagineYourBook](https://www.imagineyourbook.com/) - AI book workspace that plans and drafts full manuscripts, rewrites drafts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
+- [CareJobs AI Career Tools](https://carejobs.now/tools) - Free AI cover letter generator, resume bullet writer, interview coach, job posting decoder, offer negotiation email and resignation letter writers for nurses and healthcare workers. No sign-up.
 
 ### Boost Your Productivity
 
