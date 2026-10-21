@@ -157,6 +157,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [n8n](https://n8n.io/) - Open-source workflow automation with strong AI/agent nodes for connecting LLMs to apps and APIs.
 - [Zapier Agents](https://zapier.com/agents) - No-code AI agents that act across Zapier's app ecosystem for business workflows.
 - [fal](https://fal.ai/) - Generative media inference API (image/video/audio models) optimized for fast serverless generation.
+- [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans.
 
 ### AI Meeting Allies
 
