@@ -423,7 +423,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Chatfuel](https://www.chatfuel.com/) - AI-driven chatbot for automating customer engagement on Messenger.
 - [ThreadFox](https://threadfox.vip) - Reddit outreach tools for Claude Code and Codex that read community rules, draft replies you approve and recheck each post (paid; free open-source [ThreadFox Lite](https://github.com/amflimited/threadfox-lite)).
 - [Kamply](https://kamplyapp.com) - Marketing crew inside a Mac desktop app that designs social posts, carousels, video reels, ads and decks to match your branding. Works through your own Claude Code or Codex plan; paid, Apple silicon only.
-- [pitchboom.io](https://pitchboom.io) - AI motion-design studio for video ads: paste a product URL or a short brief and get on-brand, voiced ads in 16:9, 9:16, 1:1, 4:5 and 3:4 for TikTok, Reels, Shorts, Meta and LinkedIn. Paid, plans from €30/month.
+- [pitchboom.io](https://pitchboom.io) - AI motion-design studio for video ads: paste a product URL or a short brief and get on-brand, voiced ads in 16:9, 9:16, 1:1, 4:5 and 3:4 for TikTok, Reels, Shorts, Meta and LinkedIn. Freemium: 500 free credits at sign-up, then plans from €30/month.
 
 ## 📞 AI Phone Call Agents
 
