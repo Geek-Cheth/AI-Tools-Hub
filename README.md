@@ -224,6 +224,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Browser Use](https://github.com/browser-use/browser-use) - Open-source library for LLM-driven browser automation (click, type, navigate) used widely in computer-use agent stacks.
 - [Browserbase](https://www.browserbase.com/) - Hosted headless browser infrastructure for web agents with stealth, sessions, and developer APIs.
 - [CurlShot](https://curlshot.com/) - Screenshot API plus a hosted MCP server that lets AI agents see rendered web pages as PNG/JPEG/WebP images, PDFs, or scrolling videos; free tier.
+- [deed.page](https://deed.page) - Static hosting for AI agents: publish HTML or a folder with one HTTP PUT or through a remote MCP server and get a live https URL; free plan with no signup.
 - [Tavily](https://www.tavily.com/) - Search API built for LLM/agent retrieval (clean snippets, citations) rather than consumer search UIs.
 - [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents (Claude Code, Codex, Gemini CLI) with Kanban-driven tasks, parallel git worktrees, and typed merge flows.
 - [LandingAI ADE](https://landing.ai/ade) - Agentic document extraction API (DPT-3 Pro/Verity): parse, split, and schema extract with layout-aware Markdown and atomic grounding for RAG and agents.
