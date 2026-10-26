@@ -263,6 +263,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+- [Orbi](https://orbi.build/?ref=dir-aitoolshub) - Open-source coding agent for GitHub: label an Issue and it implements, tests, opens a PR, and merges after a separate AI review ([source](https://github.com/orbi-build/orbi)).
 
 ## 🎨 Generative AI for Images
 
