@@ -159,6 +159,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [n8n](https://n8n.io/) - Open-source workflow automation with strong AI/agent nodes for connecting LLMs to apps and APIs.
 - [Zapier Agents](https://zapier.com/agents) - No-code AI agents that act across Zapier's app ecosystem for business workflows.
 - [fal](https://fal.ai/) - Generative media inference API (image/video/audio models) optimized for fast serverless generation.
+- [SitePatent](https://sitepatent.com/) - Screened launch directory for new startups and AI tools, with a free read-only MCP server for trending listings.
 - [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans.
 - [CodeTrendy](https://codetrendy.com/) - Curated directory of newly launched startups, SaaS and AI tools, screened by hand, with a free read-only MCP server so AI assistants can search listings and find alternatives to a product.
 
