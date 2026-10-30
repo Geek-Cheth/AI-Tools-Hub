@@ -161,6 +161,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [fal](https://fal.ai/) - Generative media inference API (image/video/audio models) optimized for fast serverless generation.
 - [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans.
 - [CodeTrendy](https://codetrendy.com/) - Curated directory of newly launched startups, SaaS and AI tools, screened by hand, with a free read-only MCP server so AI assistants can search listings and find alternatives to a product.
+- [MEDIAPRONET](https://mediapronet.com/) - Launch directory where makers list newly shipped startups, SaaS and AI tools by category, with a free read-only MCP server for AI assistants.
 
 ### AI Meeting Allies
 
