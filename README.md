@@ -375,6 +375,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Opus Clip](https://www.opus.pro/) - AI short-form clipper that turns long videos/podcasts into captioned social clips.
 - [ScaleReach](https://www.scalereach.ai) - Turns long YouTube and other videos into vertical 9:16 clips with AI captions and face-tracking crop, with virality scoring and scheduling to Instagram, TikTok, and YouTube.
 - [Pixwit](https://pixwit.ai/) - Multi-model text-to-video and image-to-video studio with effect templates and AI image generation.
+- [RefVid](https://refvid.com/) - Generates AI videos that keep the same character or product consistent across shots, from 1-10 reference images. Free 5-second video on sign-up, then paid plans.
 
 ## 🎧 Generative AI for Audio
 
