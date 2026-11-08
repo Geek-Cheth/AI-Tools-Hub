@@ -266,6 +266,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [Orbi](https://orbi.build/?ref=dir-aitoolshub) - Open-source coding agent for GitHub: label an Issue and it implements, tests, opens a PR, and merges after a separate AI review ([source](https://github.com/orbi-build/orbi)).
+- [Imagera Code](https://imagera.ai/code) - Terminal AI coding agent that reads and edits your project, runs commands and tests, with Claude, GPT, Gemini and hundreds more models on one paid plan.
 
 ## 🎨 Generative AI for Images
 
@@ -376,6 +377,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [ScaleReach](https://www.scalereach.ai) - Turns long YouTube and other videos into vertical 9:16 clips with AI captions and face-tracking crop, with virality scoring and scheduling to Instagram, TikTok, and YouTube.
 - [Pixwit](https://pixwit.ai/) - Multi-model text-to-video and image-to-video studio with effect templates and AI image generation.
 - [RefVid](https://refvid.com/) - Generates AI videos that keep the same character or product consistent across shots, from 1-10 reference images. Free 5-second video on sign-up, then paid plans.
+- [Imagera](https://imagera.ai/) - AI studio for video, images, voice and music where Character IDs keep one face or product consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video. Paid credit plans.
 
 ## 🎧 Generative AI for Audio
 
