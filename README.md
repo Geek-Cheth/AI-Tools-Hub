@@ -474,3 +474,4 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Muse (Meta)](https://muse.ai/) - Personal AI agent (iOS/Android/WhatsApp/web) that acts across connected apps via Muse Secure VM.
+- [objekto.io](https://objekto.io/en) - Describe an object in a few words, a photo or a sketch; AI designs a print-ready multi-part 3D model with an exploded view and an assembly guide, then an industrial workshop 3D prints it and delivers it (France only for now).
