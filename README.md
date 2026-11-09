@@ -163,6 +163,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos, articles and PDFs into searchable summaries, key takeaways and step-by-step plans.
 - [CodeTrendy](https://codetrendy.com/) - Curated directory of newly launched startups, SaaS and AI tools, screened by hand, with a free read-only MCP server so AI assistants can search listings and find alternatives to a product.
 - [MEDIAPRONET](https://mediapronet.com/) - Launch directory where makers list newly shipped startups, SaaS and AI tools by category, with a free read-only MCP server for AI assistants.
+- [CookLLM](https://cookllm.com/en/jobs/match) - An AI job matcher that emails you new roles that fit.
 
 ### AI Meeting Allies
 
