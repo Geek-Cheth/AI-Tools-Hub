@@ -232,6 +232,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents (Claude Code, Codex, Gemini CLI) with Kanban-driven tasks, parallel git worktrees, and typed merge flows.
 - [LandingAI ADE](https://landing.ai/ade) - Agentic document extraction API (DPT-3 Pro/Verity): parse, split, and schema extract with layout-aware Markdown and atomic grounding for RAG and agents.
 - [OpenAI Agents API](https://openai.com/index/introducing-the-agents-api/) - Managed Codex-style agent harness in public beta (sessions, tools, hosted sandboxes); billed on model/tool usage, no separate harness fee.
+- [Imagera LLM API](https://imagera.ai/llm-api) - One OpenAI-compatible endpoint for 320+ language models from 48 labs (GPT, Claude, Gemini, DeepSeek, Qwen and more), billed per token from a prepaid balance.
 
 ## 💻 Code Generation with AI
 
