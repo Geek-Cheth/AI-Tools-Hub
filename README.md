@@ -351,6 +351,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 - [Topaz Labs Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - AI-powered image upscaling tool that increases image resolution without losing details.
 - [VanceAI](https://vanceai.com/) - AI-based tool for enhancing image quality, improving details, and reducing noise in images.
+- [Enhance.Place](https://enhance.place/) - Free online AI photo upscaler (2× or 4×, no login), with an optional Windows app for local photo and video upscaling.
 
 ### Image compression
 
