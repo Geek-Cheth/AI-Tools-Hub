@@ -312,6 +312,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Canva](https://www.canva.com/) - Design suite with Magic Media and other AI image, copy, and layout helpers.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach.
 - [APPLORE](https://applore.app/ai-app-icon-generator) - AI app icon generator plus a library of 18,000+ real app icons.
+- [Wavegrain](https://wavegrain.com/) - Curated TikTok slideshows and Instagram carousels for your brand on autopilot.
 
 ### Image Resource Libraries
 
