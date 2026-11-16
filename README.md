@@ -165,6 +165,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [MEDIAPRONET](https://mediapronet.com/) - Launch directory where makers list newly shipped startups, SaaS and AI tools by category, with a free read-only MCP server for AI assistants.
 - [CookLLM](https://cookllm.com/en/jobs/match) - An AI job matcher that emails you new roles that fit.
 - [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that turns videos, audio files and YouTube links into searchable transcripts with summaries.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com) - Turn any YouTube video into a transcript you can search, translate, summarize and chat with.
 
 ### AI Meeting Allies
 
