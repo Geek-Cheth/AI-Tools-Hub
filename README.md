@@ -61,17 +61,17 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 ### Language and chat models
 
-- [OpenAI API](https://platform.openai.com/docs/overview) - API access to OpenAI chat, reasoning, and coding-capable models for building products and workflows.
-- [Anthropic API](https://console.anthropic.com/) - API for Claude models: long-context assistants and agents for enterprise and apps.
-- [Google AI Studio / Gemini API](https://ai.google.dev/) - APIs and tooling for Gemini and related Google multimodal models.
-- [DeepSeek](https://www.deepseek.com/) - Competitive open-weights LLMs plus API/chat for coding and reasoning; V3.2-Exp adds sparse attention for cheaper long-context inference.
+- [OpenAI API](https://developers.openai.com/api/docs) - API for OpenAI models, including flagship GPT-6 Astra for reasoning and coding.
+- [Anthropic API](https://platform.claude.com/) - API for Claude models, including Claude Fable 5.2 for long-running coding and technical work.
+- [Google AI Studio / Gemini API](https://ai.google.dev/) - APIs and tooling for Gemini models, including Gemini 4 Carbon and Gemini 4 Hydrogen.
+- [DeepSeek](https://www.deepseek.com/) - Open-weight LLMs plus API and chat for coding and reasoning; V4.1 Flash (V4.1-Flash-1017) is the current release.
 - [xAI Grok](https://x.ai/) - Frontier models via xAI aimed at truthful, tool-using assistants (consumer and API tiers vary by region).
 - [OpenRouter](https://openrouter.ai/) - Unified API routing across many frontier and open-source language models behind one billing surface.
 - [LLaMA (Meta Llama)](https://ai.meta.com/llama/) - Meta's Llama family of open-source large language models (follow Meta's site for the latest numbered releases).
-- [Mistral AI](https://mistral.ai/) - European model provider offering open weights and hosted APIs across instruction and multimodal tiers.
+- [Mistral AI](https://mistral.ai/) - European model provider; Mistral Large 4 is the current open-weight multimodal flagship, with hosted APIs.
 - [Gemma](https://ai.google.dev/gemma) - Open models from Google suited for experimentation, fine-tuning, and lightweight deployment.
 - [Qwen](https://chat.qwen.ai/) - Alibaba's open-weight and hosted LLM family (chat + Model Studio API) spanning coding, multimodal, and long-context models.
-- [Kimi (Moonshot AI)](https://www.kimi.com/) - Moonshot's long-context assistant and open-weight MoE models with consumer chat and developer API.
+- [Kimi (Moonshot AI)](https://www.kimi.com/) - Moonshot's assistant and API; K3.1 Pro is the current flagship for coding and agent tasks.
 - [MiniMax](https://www.minimax.io/) - Multimodal model lab (language, video, speech/music) with chat, agent products, and open platform APIs.
 - [Phi (Microsoft)](https://azure.microsoft.com/en-us/products/phi) - Microsoft's compact open and Azure-hosted SLM family for on-device and efficient cloud inference.
 - [Ollama](https://ollama.com/) - Local runner for open LLMs with a simple CLI/API; de-facto default for laptop/self-hosted model serving.
@@ -79,6 +79,11 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Together AI](https://www.together.ai/) - Inference and fine-tuning platform hosting many frontier open-weight models behind one API.
 - [Fireworks AI](https://fireworks.ai/) - Production inference platform for open and partner-hosted models with OpenAI/Anthropic-compatible APIs.
 - [LM Studio](https://lmstudio.ai/) - Desktop app to download and run local open models with a ChatGPT-like UI and local server.
+- [Tencent Hy4](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/) - Tencent's Hy4 model with vision understanding and computer use for long-horizon tasks.
+- [Inkling (Thinking Machines)](https://thinkingmachines.ai/inkling/) - Thinking Machines' open-weight multimodal family; Inkling 2 Small is the current generation and can be fine-tuned on Tinker.
+- [Endeavor (Flower)](https://flower.ai/models/endeavor) - Flower Labs' reasoning and coding model with image understanding, available through Flower's API or a private deployment.
+- [Mercury (Inception)](https://www.inceptionlabs.ai/) - Inception's diffusion language models for fast reasoning and agents; Mercury 3 is the current flagship.
+- [Muse Spark Open (Meta)](https://dev.meta.ai/models/muse-spark-open) - Meta's open-weight multimodal MoE for coding and agent workflows.
 
 #### Historical / notable open models
 
@@ -104,7 +109,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 ### AI-Powered Search Engines
 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
-- [Exa](https://exa.ai/) - Neural search engine and API (formerly Metaphor): semantic web retrieval for apps and agents.
+- [Exa](https://exa.ai/) - Search API for AI agents over the public web (formerly Metaphor); Exa 3.0 is the current quality release.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
 - [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
@@ -166,6 +171,10 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [CookLLM](https://cookllm.com/en/jobs/match) - An AI job matcher that emails you new roles that fit.
 - [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that turns videos, audio files and YouTube links into searchable transcripts with summaries.
 - [GetYouTubeTranscript](https://getyoutubetranscript.com) - Turn any YouTube video into a transcript you can search, translate, summarize and chat with.
+- [Nod (n8n)](https://nod.n8n.io/) - Personal open-source agent from n8n that runs on your computer or server with the model provider you choose.
+- [Rakazo](https://rakazo.com/) - Open-source personal AI teammates that run on your machine with your own model keys.
+- [Cuey](https://cuey.io/) - Compares answers across ChatGPT, Claude, and Gemini without leaving the chat you are in.
+- [Scape](https://scape.app/) - Desktop email client that drafts replies using mail, calendar, and local meeting recordings.
 
 ### AI Meeting Allies
 
@@ -191,6 +200,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [SiteSpeakAI](https://sitespeak.ai/) - Automate your customer support with AI.
 - [Inline Help](https://inlinehelp.com/) - Answer customer questions before they ask.
 - [Aidbase](https://www.aidbase.ai/) - AI-Powered Support for your SaaS startup.
+- [Ferndesk](https://ferndesk.com/) - Help center whose agent checks articles against the product and drafts doc fixes for review.
 
 ### More Text Generation Tools
 
@@ -234,6 +244,22 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents (Claude Code, Codex, Gemini CLI) with Kanban-driven tasks, parallel git worktrees, and typed merge flows.
 - [LandingAI ADE](https://landing.ai/ade) - Agentic document extraction API (DPT-3 Pro/Verity): parse, split, and schema extract with layout-aware Markdown and atomic grounding for RAG and agents.
 - [OpenAI Agents API](https://openai.com/index/introducing-the-agents-api/) - Managed Codex-style agent harness in public beta (sessions, tools, hosted sandboxes); billed on model/tool usage, no separate harness fee.
+- [Plurai](https://www.plurai.ai/) - Agent simulation and post-training platform for improving how AI agents perform.
+- [Spacefast](https://spacefast.com/) - Hosting for sites and apps that an AI agent publishes, with versions, rollback, and a CLI or MCP.
+- [GBrain](https://github.com/garrytan/gbrain) - Self-hosted shared notes and company docs that coding agents read before they answer.
+- [LiveReview](https://hexmos.com/livereview/) - Risk-scored AI code review for pull requests, with CLI, IDE, and CI checks.
+- [NoMac](https://nomac.app/) - On-demand cloud macOS machines and iOS simulators that AI agents start and stop.
+- [GitHub Agentic Workflows](https://github.github.com/gh-aw/) - Markdown automations that compile to GitHub Actions and run coding agents for repo tasks.
+- [Yedric](https://www.yedric.ai/) - Embeddable assistant that takes actions in your product through your docs, APIs, and tools.
+- [ZooWork](https://zoowork.ai/) - Platform to build, deploy, and run agents across models and business systems.
+- [engrams](https://github.com/cortexapps/engrams) - Open-source, self-hosted software factory that runs coding agents in Firecracker VMs in your cloud.
+- [OpenClaw Enterprise](https://openclaw.ai/enterprise) - Self-hosted control plane for persistent agents, with tenancy and audit; pre-1.0 for internal pilots.
+- [Foremerge](https://foremerge.com/) - Open-source layer above Git so parallel coding agents publish intents and catch conflicts first.
+- [Docker Cloud Sandboxes](https://docs.docker.com/ai/sandboxes/cloud/) - Isolated cloud microVMs for running coding agents on Docker-managed infrastructure.
+- [Buddy MCP](https://buddy.works/agents) - Buddy's remote MCP server so coding agents can run pipelines, deployments, and sandboxes.
+- [Agent S (Simular)](https://github.com/simular-ai/agent-s) - Open-source computer-use agent that operates desktop apps; Agent S4 is the current release.
+- [Jev (TypeSafe AI)](https://typesafe.ai/) - Decision model that returns typed choices with confidence scores for software to act on.
+- [Promptic](https://promptic.eu/) - Trace, evaluate, and optimize prompts and agents against your own metrics.
 
 ## 💻 Code Generation with AI
 
@@ -268,8 +294,12 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
-- [Orbi](https://orbi.build/?ref=dir-aitoolshub) - Open-source coding agent for GitHub: label an Issue and it implements, tests, opens a PR, and merges after a separate AI review ([source](https://github.com/orbi-build/orbi)).
+- [Orbi](https://orbi.build/) - Open-source coding agent for GitHub: label an Issue and it implements, tests, opens a PR, and merges after a separate AI review ([source](https://github.com/orbi-build/orbi)).
 - [Imagera Code](https://imagera.ai/code) - Terminal AI coding agent that reads and edits your project, runs commands and tests, with Claude, GPT, Gemini and hundreds more models on one paid plan.
+- [Google Antigravity](https://antigravity.google/) - Google's agent-first development platform with an IDE, CLI, SDK, and desktop app.
+- [Floot](https://floot.com/) - Builds and hosts full-stack apps from Claude, ChatGPT, Cursor, or another MCP client.
+- [Gemini API CLI](https://aistudio.google.com/docs/cli) - Stateless Gemini API command-line client for agents and scripts to generate text and media.
+- [Whiteboard](https://whiteboard.dev.fast/) - Open-source desktop canvas where people and coding agents sketch a design and jump from diagrams to code.
 
 ## 🎨 Generative AI for Images
 
@@ -277,12 +307,13 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 - [DALL·E 3](https://openai.com/dall-e-3/) - OpenAI's latest consumer text-to-image model (successor to DALL·E 2) with strong prompt adherence and safety defaults.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Open text-to-image diffusion family from Stability (many checkpoints and community fine-tunes).
-- [Flux](https://blackforestlabs.ai/) - High-fidelity open and commercial image models from Black Forest Labs.
+- [Flux](https://bfl.ai/) - Black Forest Labs' FLUX 3 models for image, video, audio, and action.
 - [Midjourney](https://www.midjourney.com/) - Independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://deepmind.google/technologies/imagen/) - Google's text-to-image diffusion research and product line (quality tied to Gemini / Google AI stack).
 - [Ideogram](https://ideogram.ai/) - Text-to-image model/service known for reliable typography and design-ready graphics.
 - [Recraft](https://www.recraft.ai/) - Design-oriented image generator with strong brand/style controls and vector-friendly outputs.
 - [Adobe Firefly](https://firefly.adobe.com/) - Adobe's commercially licensed generative image models integrated across Creative Cloud.
+- [World Labs](https://worldlabs.ai/) - Spatial intelligence lab building models that perceive, generate, and interact with 3D worlds.
 
 ### AI Image Services
 
@@ -374,7 +405,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating.
 - [Kling AI](https://kling.ai/) - Kuaishou's high-quality text/image-to-video studio with long clips and strong motion realism.
-- [Pika](https://pika.art/) - Creator-focused AI video platform for short cinematic clips, effects, swaps, and lip-sync.
+- [Pika](https://pika.art/) - Creator platform for AI video, image, and audio, including the Pika H3 Flex video model.
 - [Hailuo (MiniMax)](https://hailuoai.video/) - MiniMax's video generation product for text/image-to-video with competitive motion quality.
 - [HeyGen](https://www.heygen.com/) - AI avatar / talking-head video platform for localization, training, and marketing explainers.
 - [Opus Clip](https://www.opus.pro/) - AI short-form clipper that turns long videos/podcasts into captioned social clips.
@@ -382,6 +413,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Pixwit](https://pixwit.ai/) - Multi-model text-to-video and image-to-video studio with effect templates and AI image generation.
 - [RefVid](https://refvid.com/) - Generates AI videos that keep the same character or product consistent across shots, from 1-10 reference images. Free 5-second video on sign-up, then paid plans.
 - [Imagera](https://imagera.ai/) - AI studio for video, images, voice and music where Character IDs keep one face or product consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video. Paid credit plans.
+- [Kino](https://kino.ai/) - AI video editor for teams and agents to store, search, and edit footage on a shared timeline.
+- [Gemini Omni 1.2 Flash](https://deepmind.google/models/model-cards/gemini-omni-1-2-flash/) - Google video model for generating, editing, and extending clips with synchronized audio.
+- [Pexo](https://pexo.ai/) - Conversational video agent that turns a URL, file, or idea into a finished video.
 
 ## 🎧 Generative AI for Audio
 
@@ -389,7 +423,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 - [Descript Overdub](https://www.descript.com/overdub) - Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.
 - [Respeecher](https://www.respeecher.com/) - A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
-- [ElevenLabs](https://elevenlabs.io/) - Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.
+- [ElevenLabs](https://elevenlabs.io/) - Voice cloning and speech synthesis, plus Scribe v3 speech-to-text for recorded and live audio.
 - [Cartesia](https://cartesia.ai/) - Real-time generative voice / sonic models aimed at low-latency voice agents and apps.
 - [Resemble AI](https://www.resemble.ai/) - Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.
 - [Murf AI](https://murf.ai/) - User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.
@@ -413,6 +447,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Soundful](https://www.soundful.com) - High-quality, royalty-free music for content creators.
 - [Harmonai](https://www.harmonai.org/) - A community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
+- [Taan](https://taan.ai/) - Generates an original soundtrack synced to a video's timing and mood.
 
 ### Speech synthesis
 
@@ -421,6 +456,10 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality.
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model.
 - [GPT-Live-1](https://developers.openai.com/api/docs/models/gpt-live-1) - OpenAI full-duplex voice model in the API for real-time listen-and-speak agents; delegates reasoning/tools to a backend model.
+- [Voxtral (Mistral)](https://docs.mistral.ai/studio/audio/overview) - Mistral's Voxtral 3 models for transcription, text-to-speech, and realtime voice.
+- [MAI-Voice-2.1 (Microsoft)](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/mai-voices) - Microsoft's expressive multilingual text-to-speech model, in public preview on Azure Speech.
+- [Gemini 3.8 Live](https://aistudio.google.com/docs/models/gemini-3.8-live) - Google's low-latency audio-to-audio model for real-time voice agents.
+- [Qwen-Audio 3.1 Realtime Plus](https://docs.qwencloud.com/developer-guides/speech/qwen-audio-realtime) - Alibaba's realtime speech-to-speech model for voice assistants, with tool calling.
 
 ## 🚀 AI Tools for Marketing
 
@@ -439,6 +478,9 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Kamply](https://kamplyapp.com) - Marketing crew inside a Mac desktop app that designs social posts, carousels, video reels, ads and decks to match your branding. Works through your own Claude Code or Codex plan; paid, Apple silicon only.
 - [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 - [pitchboom.io](https://pitchboom.io) - AI motion-design studio for video ads: paste a product URL or a short brief and get on-brand, voiced ads in 16:9, 9:16, 1:1, 4:5 and 3:4 for TikTok, Reels, Shorts, Meta and LinkedIn. Freemium: 500 free credits at sign-up, then plans from €30/month.
+- [Naise AI](https://naise.ai/) - Marketing agent that drafts and schedules social content, outreach, and reports from a brief.
+- [Contentstack Canoe](https://canoe.contentstack.com/) - Checks how ChatGPT, Gemini, Perplexity, and Claude describe a brand and what to fix.
+- [AXL](https://axl.tech/) - Sales and marketing platform for sites, CRM, campaigns, booking, and payments, with an assistant and MCP.
 
 ## 📞 AI Phone Call Agents
 
