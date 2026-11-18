@@ -441,6 +441,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Smartly](https://www.smartly.io/) - Creates and optimizes social ads.
 - [Taplio](https://taplio.com/) - Writes and schedules LinkedIn posts.
 - [ThreadFox](https://threadfox.vip) - Drafts Reddit replies that follow each community's rules, for review before posting.
+- [Wavegrain](https://wavegrain.com/) - AI that writes and designs TikTok slideshows and Instagram carousels for your brand, then schedules and posts them.
 
 ## 📞 AI Phone Call Agents
 
