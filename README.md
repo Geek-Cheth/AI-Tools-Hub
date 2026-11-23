@@ -453,6 +453,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 
 ## 💼 Career and Recruiting
 
+- [Aethel](https://aethel.pro/for-companies) - Gives each candidate a 15-minute first interview with an AI interviewer that says it is an AI, and scores answers by quoting the candidate's own words.
 - [CareJobs AI Career Tools](https://carejobs.now/tools) - Writes cover letters, resume bullets, and interview notes for nurses and healthcare workers.
 - [CookLLM](https://cookllm.com/en/jobs/match) - Emails job openings that match a candidate's profile.
 - [ezJobs](https://www.getezjobs.com/) - Searches for jobs and submits applications.
