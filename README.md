@@ -316,6 +316,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Canva](https://www.canva.com/) - Design suite with AI image, copy, and layout tools.
 - [CoverNice](https://covernice.com/) - Builds print-ready paperback covers, including spine width, bleed, and an ebook cover.
 - [Gamma](https://gamma.app/) - Generates presentations and web pages from an outline.
+- [Kite](https://kite.new/) - Lets AI agents (Claude, Cursor, Codex) draw editable UI layers through a hosted MCP server in a design file the team edits live.
 - [Microsoft Designer](https://designer.microsoft.com/) - Generates social and marketing designs from a prompt.
 - [SVGStud.io](https://svgstud.io/main.html) - Generates, edits, and searches SVG graphics.
 
