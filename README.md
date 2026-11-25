@@ -130,6 +130,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Lex](https://lex.page/) - Word processor with AI help for drafting in the document.
 - [Moonbeam](https://www.gomoonbeam.com/) - Drafts long-form blog posts from a starting point.
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Builds and tunes prompts for long-form content, ads, and email.
+- [Prompt Generator](https://trypromptgenerator.com/) - Writes prompts tailored to the AI tool you pick, from ChatGPT and Claude to Midjourney and Veo.
 - [PulsePost](https://pulsepost.io/) - Writes articles and publishes them to your site.
 - [Quick Creator](https://quickcreator.io) - Blog platform that drafts SEO-oriented posts.
 - [QuillBot](https://quillbot.com) - Paraphrases and rewrites existing text.
@@ -307,7 +308,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Playground AI](https://playgroundai.com/) - Browser image generator for art, posts, and simple layouts.
 - [Room Reinvented](https://roomreinvented.com) - Generates interior-design variations from a photo of a room.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud workspace for creating images with diffusion models.
-- [TattooTryOn](https://tattootryon.app/) - Places a tattoo on a photo of your body at the spot, size and angle you choose, then renders it with your skin tone and lighting.
+- [TattooTryOn](https://tattootryon.app/) - Previews a tattoo design on a photo of your body, rendered to match your skin tone and lighting.
 - [VectorArt.ai](https://vectorart.ai) - Generates vector artwork from prompts.
 
 ### Graphic Design
@@ -483,6 +484,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Manus](https://manus.im/) - Autonomous agent for multi-step research and execution tasks.
 - [MEDIAPRONET](https://mediapronet.com/) - Directory of newly shipped startups, SaaS, and AI tools, with a read-only MCP server.
 - [Muse (Meta)](https://muse.ai/) - Personal AI agent from Meta that acts across connected apps.
+- [objekto](https://objekto.io/en) - Turns a text description, photo or sketch into an AI-designed 3D-printed object delivered to you (France only for now).
 - [Petals](https://github.com/bigscience-workshop/petals) - Runs large models collaboratively across volunteers' machines.
 - [PromptBase](https://promptbase.com/) - Marketplace for buying and selling prompts.
 - [PublicPrompts](https://publicprompts.art/) - Directory for browsing and submitting AI tools.
