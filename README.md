@@ -307,6 +307,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Playground AI](https://playgroundai.com/) - Browser image generator for art, posts, and simple layouts.
 - [Room Reinvented](https://roomreinvented.com) - Generates interior-design variations from a photo of a room.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud workspace for creating images with diffusion models.
+- [TattooTryOn](https://tattootryon.app/) - Places a tattoo on a photo of your body at the spot, size and angle you choose, then renders it with your skin tone and lighting.
 - [VectorArt.ai](https://vectorart.ai) - Generates vector artwork from prompts.
 
 ### Graphic Design
