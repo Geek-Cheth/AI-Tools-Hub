@@ -452,6 +452,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [AICaller](https://aicaller.io/) - Places outbound calls for lead qualification and data collection.
 - [Bland.ai](https://www.bland.ai/) - Programmable phone agents for inbound and outbound calls.
 - [Cald](https://cald.ai) - Calling agents for inbound and outbound phone conversations.
+- [Genaya](https://www.genaya.com/) - AI receptionist that answers calls, texts and chats for service businesses, inside one app for scheduling, CRM, invoices and payments.
 - [Retell AI](https://www.retellai.com/) - Low-latency voice agents for phone and web calls.
 - [Vapi](https://vapi.ai/) - Developer platform for building and deploying voice phone agents.
 
