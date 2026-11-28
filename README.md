@@ -100,6 +100,7 @@ Join the community! Contribute your favorite AI tools and help us grow. Found so
 - [Gemini](https://gemini.google.com) - Google's multimodal assistant, connected to Gemini models and Workspace.
 - [Microsoft Copilot](https://copilot.com/) - Microsoft's assistant on the web, in Edge, and in Windows.
 - [Pi by Inflection AI](https://pi.ai/talk) - Personal conversational assistant from Inflection.
+- [Whizi](https://whizi.io) - Chat with GPT, Claude, Gemini, Grok, DeepSeek and 280+ AI models in one app.
 
 ### AI-Powered Search Engines
 
